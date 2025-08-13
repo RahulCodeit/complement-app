@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Production
+dist/
+build/
+
+# Backup files
+backup-original/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Environment variables
+.env
+.env.local 

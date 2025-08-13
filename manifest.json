@@ -1,0 +1,35 @@
+{
+  "name": "Compliment Cards 2.0",
+  "short_name": "Cards",
+  "description": "Create beautiful AI-powered compliment cards instantly",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#8b5cf6",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVJSURBVHgB7d3NbttGFIbhQ1KWZMuO06ZpgaJo0QXRm+j9X0DRRYECRZOmjmPLlkTqZ85QAYIuCkTiDDnv8wAEQRAEQXjevzNDSgAAAAAAAAAAAAAAAAAAAADATVHpBWiaplLVarWqXq9XtVqtqtfr1Wq1qhaLRbVcLqvlclktFotqPp9X8/m8ms1m1Ww2q6bTaTWdTqvJZFJNJpNqPB5X4/G4Go1G1Wg0qoZpOBxWw+GwGgwG1WAwqPr9ftXv96ter1d1u92q2+1WnU6n6nQ6VbvdrtrtdtVqtapWq1U1m82q2WxWjUYjvRaUogBubTab6uLiotrb26v29vaq3d3dand3t9rZ2al2dnaq7e3tatu2t7erra2talO2tbVVbW5uVhubm5vVxsZGtb6+Xq2vr1drtVqt1tbWqrW1tWqt0WiUXiKKUgCPOp1OdXJyUh0dHVVHR0fV4eFhdXh4WB0cHFQHBwfV/v5+tb+/X+3t7VV7u7u71e7OTrWzu7tbXTQa6XXhOimAR/V6verDhw/Vu3fvqrdv31Zv3ryp3rx5U71+/bp69epV9fLly+rly5fVi729vRdF/5kCAAAAAAAAAAAAAAAAgGesKb0AAICnqQAAgKMUAABwlAIAAI5SAADAUQoAADhKAQAARykAAOAoBQAAHKUAAICjFAAAcJQCYOVtbm6m1wCUoABYeVtbW+k1ACUoAFZeCgDlKABWXgqAaJqmabVaVbvdTrdlnU6n6nQ6VbfbrXq9XtXr9ap+v1/1+/1qMBhUg8GgGg6H1XA4rEajUTUajaqLi4tqPB5X4/G4mkwm1WQyqabTaTWdTqvZbFbNZrNqPp9X8/m8WiwW1WKxqJbLZbVcLqv1el2t1+tVo9EovUSUpABYeWdnZ+k1vHB5eZkKYX19vdrc3Ky2t7er7e3tanfXPqtMn1d2fn5eHRwcVAcHB9Xh4WF1eHhYHR0dVUdHR9XJyUl1cnJSnZ6eVqenp9VZmn/uS68RJSkAVt7p6Wl6Dc/VaDSqtbW1am1trdpoNpvNVqtVtVqtqt1uV+12u+p0OlWn06m63W7V7Xarfr9f9fv9ajAYVIPBoBqNRtVoNKouLi6qi4uLajKZVJPJpJrNZtVsNqsWi0W1WCyqmzdvVjdv3qxu3bpV3bp1q7pz50515+7du9W9e/eqe/fv36/u379fPXjw4PcHDx48eKgIxKQAWHlRCuCqJJh7vV7V6/WqnZ2damdnp9rf36/29/erg4OD6uDgoDo+Pq6Oj4+r09PT6vT0tDo/P6/Oz8+rhw8fVg8fPqwePXpUPXr06PG9e/fu37t3r7p79251d2dnp9pRBHEpAFZelAL4t2Sz39jYqDY2NqrNzc1qc3Oz2traqra2tqrt7e1qe3u72t3drXZ3d6u9vb1qb2+v2k/7gb29vWpvb2+v2tnZqXYUQVwKgJUXpQCeJZtQq9WqWq1W1e12q263W/X7/arf71fD4bAaDofVaDSqRqNRNZlMqslkUs1ms2o2m1XL5bJaLpfVtWvXqmvXrlU3btxIN/0nT55UTz/99NPPHz9+/Hg8Ho/H0+m0mk6n1Xw+r+aKIC4FAEfU6/Wq0WhUDUUQlwKAI9I5QLvdTgHEowDgiG63W3W73aoxGo1Gw+GwGgwG1WAwqPr9ftXv96ter1f1er2q0+lUnU6nardNu92uWq1W1Wq1qmazWTWbzarRaKS/F5cCgCPSCXDpNaAcBQBHnJ2dVWdnZ+k1oBwFAEecn59X5+fn6TWgHAUAR6Rr/0uvAeUoAADgKAUAABylAACAoxQAAHCUAgAAjlIAAMBRvwFxLdLwZob7ggAAAABJRU5ErkJggg==",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "lifestyle"],
+  "screenshots": [],
+  "prefer_related_applications": false,
+  "related_applications": []
+} 
